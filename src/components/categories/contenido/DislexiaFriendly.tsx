@@ -1,12 +1,12 @@
 import Button from "../../Button";
 
-const Dislexia = () => {
+const DislexiaFriendly = () => {
   return (
     <Button
       image={require("../../../assets/img/dislexia-friendly.png")}
-      name="Dislexia"
+      name="Dislexia Friendly"
     />
   );
 };
 
-export default Dislexia;
+export default DislexiaFriendly;
